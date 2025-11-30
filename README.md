@@ -6,6 +6,17 @@
 
 Random Hero Idle RPG is a global idle RPG set in the “Great Hero Era,” where the sudden appearance of mysterious posters sparks a world in which anyone can rise as a hero to fight invading otherworldly monsters.
 
+
+<p align="center">
+
+![Unity](https://img.shields.io/badge/Unity-6.0-blue)
+![Laravel](https://img.shields.io/badge/Laravel-10.x-red)
+![PHP](https://img.shields.io/badge/PHP-8.3-purple)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![Status](https://img.shields.io/badge/Status-In_Development-green)
+
+</p>
+
 <p align="center">
   <img src="docs/images/title.png" width="250" alt="Title Screen"/>
 </p>
