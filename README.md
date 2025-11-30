@@ -7,7 +7,7 @@
 Random Hero Idle RPG is a global idle RPG set in the “Great Hero Era,” where the sudden appearance of mysterious posters sparks a world in which anyone can rise as a hero to fight invading otherworldly monsters.
 
 <p align="center">
-  <img src="docs/images/title.png" width="500" alt="Title Screen"/>
+  <img src="docs/images/title.png" width="300" alt="Title Screen"/>
 </p>
 
 This repository contains the backend services and tools for the game, built and operated by **Katism Games**, a one-person indie studio based in South Korea.
@@ -21,7 +21,7 @@ This repository contains the backend services and tools for the game, built and 
 
 ### Screenshot
 <p align="center">
-  <img src="docs/images/gameplay.png" width="500" alt="Gameplay Screenshot"/>
+  <img src="docs/images/gameplay.png" width="300" alt="Gameplay Screenshot"/>
 </p>
 
 ## 2. Core Features
